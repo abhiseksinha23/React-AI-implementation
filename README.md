@@ -1,3 +1,6 @@
+Basic React app with conversational AI based bot implemented to have basic conversations with users.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
